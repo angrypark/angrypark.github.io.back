@@ -65,7 +65,7 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: "G-DJRGZYRN4B" # Format: UA-xxxxxx-xx
+ga_track_id: "UA-238690149-1" # Format: UA-xxxxxx-xx
 ga_domain: angrypark.github.io
 
 # Sidebar settings
